@@ -43,9 +43,9 @@ def logo():
 {biru}╚═╗{W}├─┤├─┤│ │├┬┘ {R}── {ungu}╠═╝{W}├┬┘│ │  │├┤ │   │
 {biru}╚═╝{W}┴ ┴┴ ┴└─┘┴└─    {ungu}╩  {W}┴└─└─┘└─┘└─┘└─┘ ┴
 {abu} ------------------------------------------
-  {W}[{R}•{W}] Creator {R}:{W} AmmarBN
-  {W}[{R}•{W}] Youtube {R}:{W} Ammar Executed
-  {W}[{R}•{W}] Github  {R}:{W} github.com/Lord-Ammar
+  {W}[{R}•{W}] Creator {R}:{W} Dull ganz
+  {W}[{R}•{W}] Youtube {R}:{W} Fadhul Execute
+  {W}[{R}•{W}] Github  {R}:{W} github.com/PadhulExecute
 
    Info Bahasa    {R}:{W} {ua}
 {W}   Waktu Local    {R}:{G} {localtime}
@@ -70,9 +70,9 @@ def satu():
 {biru}╚═╗{W}├─┤├─┤│ │├┬┘ {R}── {ungu}╠═╝{W}├┬┘│ │  │├┤ │   │
 {biru}╚═╝{W}┴ ┴┴ ┴└─┘┴└─    {ungu}╩  {W}┴└─└─┘└─┘└─┘└─┘ ┴
 {abu} ------------------------------------------
-  {W}[{R}•{W}] Creator {R}:{W} AmmarBN
-  {W}[{R}•{W}] Youtube {R}:{W} Ammar Executed
-  {W}[{R}•{W}] Github  {R}:{W} github.com/Lord-Ammar
+  {W}[{R}•{W}] Creator {R}:{W} Dull ganz
+  {W}[{R}•{W}] Youtube {R}:{W} Fadhul Execute
+  {W}[{R}•{W}] Github  {R}:{W} github.com/PadhulExecute
 
    Info Bahasa    {R}:{W} {ua}
 {W}   Waktu Local    {R}:{G} {localtime}
@@ -91,9 +91,9 @@ def Wa():
 {biru}╚═╗{W}├─┤├─┤│ │├┬┘ {R}── {ungu}╠═╝{W}├┬┘│ │  │├┤ │   │
 {biru}╚═╝{W}┴ ┴┴ ┴└─┘┴└─    {ungu}╩  {W}┴└─└─┘└─┘└─┘└─┘ ┴
 {abu} ------------------------------------------
-  {W}[{R}•{W}] Creator {R}:{W} padhul 
-  {W}[{R}•{W}] Youtube {R}:{W} Fadhil Execute
-  {W}[{R}•{W}] Github  {R}:{W} github.com/FadhulExecute
+  {W}[{R}•{W}] Creator {R}:{W} Dull ganz
+  {W}[{R}•{W}] Youtube {R}:{W} Fadhul Execute
+  {W}[{R}•{W}] Github  {R}:{W} github.com/PadhulExecute
 
    Info Bahasa    {R}:{W} {ua}
 {W}   Waktu Local    {R}:{G} {localtime}
